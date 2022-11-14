@@ -1,0 +1,641 @@
+1666417389465	geckodriver	INFO	Listening on 127.0.0.1:10901
+1666417392469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "10902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilee1erdo"
+*** You are running in headless mode.
+1666417394166	Marionette	INFO	Marionette enabled
+1666417394175	Marionette	INFO	Listening on port 10911
+Read port: 10911
+WebDriver BiDi listening on ws://127.0.0.1:10902
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilee1erdo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:10902/devtools/browser/719057b3-d6c4-4573-a293-2a7a387214c4
+1666417397498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666417400603	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T05:43:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:43:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 905 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 7052 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666417525573	geckodriver	INFO	Listening on 127.0.0.1:11036
+1666417528616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "11037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileILTuC4"
+*** You are running in headless mode.
+1666417529396	Marionette	INFO	Marionette enabled
+1666417529415	Marionette	INFO	Listening on port 11046
+Read port: 11046
+WebDriver BiDi listening on ws://127.0.0.1:11037
+1666417529649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileILTuC4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11037/devtools/browser/03106672-2d8f-494f-8f17-3703428980ae
+1666417535564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T05:45:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:35Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:37Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:45:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 4179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666417727493	geckodriver	INFO	Listening on 127.0.0.1:11450
+1666417730522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "11451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilePbjMg3"
+*** You are running in headless mode.
+1666417731168	Marionette	INFO	Marionette enabled
+1666417731179	Marionette	INFO	Listening on port 11462
+Read port: 11462
+WebDriver BiDi listening on ws://127.0.0.1:11451
+1666417731363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilePbjMg3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11451/devtools/browser/6f7952be-0661-4248-98c4-3007fb5c0399
+1666417736338	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T05:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:56Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:48:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 7600 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666417809445	geckodriver	INFO	Listening on 127.0.0.1:11843
+1666417812476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "11844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileXDbDif"
+*** You are running in headless mode.
+1666417813104	Marionette	INFO	Marionette enabled
+1666417813111	Marionette	INFO	Listening on port 11853
+Read port: 11853
+WebDriver BiDi listening on ws://127.0.0.1:11844
+1666417813281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileXDbDif\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:11844/devtools/browser/337b4711-5c5a-41b9-9efb-46b9bf9bc4e7
+1666417818098	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T05:50:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:50:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 7728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666417957305	geckodriver	INFO	Listening on 127.0.0.1:12241
+1666417960361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "12242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilebjPCEm"
+*** You are running in headless mode.
+1666417960934	Marionette	INFO	Marionette enabled
+1666417960941	Marionette	INFO	Listening on port 12251
+Read port: 12251
+WebDriver BiDi listening on ws://127.0.0.1:12242
+1666417961138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilebjPCEm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12242/devtools/browser/8ad7c28d-80b8-480b-9b43-be53ed093526
+1666417966066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T05:52:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:47Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T05:52:48Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 3996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666418115699	Marionette	INFO	Stopped listening on port 12251
+1666419053139	geckodriver	INFO	Listening on 127.0.0.1:12682
+1666419056182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "12683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilenv9ov0"
+*** You are running in headless mode.
+1666419056681	Marionette	INFO	Marionette enabled
+1666419056690	Marionette	INFO	Listening on port 12695
+Read port: 12695
+WebDriver BiDi listening on ws://127.0.0.1:12683
+1666419056873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilenv9ov0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:12683/devtools/browser/abfdb85a-6fc5-4cf8-9a20-a2f256e0368b
+1666419061965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:11:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 3863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666419206064	Marionette	INFO	Stopped listening on port 12695
+1666419734868	geckodriver	INFO	Listening on 127.0.0.1:13181
+1666419737855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "13182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile2WfgaE"
+*** You are running in headless mode.
+1666419738730	Marionette	INFO	Marionette enabled
+1666419738741	Marionette	INFO	Listening on port 13191
+Read port: 13191
+WebDriver BiDi listening on ws://127.0.0.1:13182
+1666419738986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile2WfgaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13182/devtools/browser/e7831e12-c200-4d8e-88f0-8cb363b6b10d
+1666419745031	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:22:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1666419890657	Marionette	INFO	Stopped listening on port 13191
+1666420567858	geckodriver	INFO	Listening on 127.0.0.1:13795
+1666420571013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "13796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileJFftCF"
+*** You are running in headless mode.
+1666420571899	Marionette	INFO	Marionette enabled
+1666420571914	Marionette	INFO	Listening on port 13805
+Read port: 13805
+WebDriver BiDi listening on ws://127.0.0.1:13796
+1666420572153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileJFftCF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13796/devtools/browser/04bef7d2-7db0-4b07-946a-bc80917b6499
+1666420578539	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T06:36:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T06:36:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1666420729399	Marionette	INFO	Stopped listening on port 13805
+1666422124379	geckodriver	INFO	Listening on 127.0.0.1:1459
+1666422127400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilesk0TvH"
+*** You are running in headless mode.
+1666422128308	Marionette	INFO	Marionette enabled
+1666422128328	Marionette	INFO	Listening on port 1471
+Read port: 1471
+WebDriver BiDi listening on ws://127.0.0.1:1460
+1666422128581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilesk0TvH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1460/devtools/browser/73752596-4f77-44a3-9c1b-e5b367732a12
+1666422133723	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T07:02:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:02:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1666422208982	Marionette	INFO	Stopped listening on port 1471
+1666422256612	geckodriver	INFO	Listening on 127.0.0.1:1840
+1666422259663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile487fmn"
+*** You are running in headless mode.
+1666422260157	Marionette	INFO	Marionette enabled
+1666422260166	Marionette	INFO	Listening on port 1850
+Read port: 1850
+WebDriver BiDi listening on ws://127.0.0.1:1841
+1666422260334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile487fmn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1841/devtools/browser/ea30a5c3-2e65-45eb-9c45-c326f5319310
+1666422265117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:04:27Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 7804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6037 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666422341748	Marionette	INFO	Stopped listening on port 1850
+1666422561538	geckodriver	INFO	Listening on 127.0.0.1:2577
+1666422564852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWhNYr4"
+*** You are running in headless mode.
+1666422566320	Marionette	INFO	Marionette enabled
+1666422566334	Marionette	INFO	Listening on port 2619
+Read port: 2619
+WebDriver BiDi listening on ws://127.0.0.1:2578
+1666422566607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWhNYr4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2578/devtools/browser/2b399420-1d5b-47a7-9ba3-71cffdfc2db8
+1666422575283	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:09:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 2740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666422656161	Marionette	INFO	Stopped listening on port 2619
+1666422819198	geckodriver	INFO	Listening on 127.0.0.1:3014
+1666422822178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilenO7ZVA"
+*** You are running in headless mode.
+1666422822784	Marionette	INFO	Marionette enabled
+1666422822795	Marionette	INFO	Listening on port 3024
+Read port: 3024
+WebDriver BiDi listening on ws://127.0.0.1:3015
+1666422822975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilenO7ZVA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3015/devtools/browser/8acd1317-caf1-4211-b968-fcddd0f3a2ad
+1666422828244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T07:13:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6534 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666425932463	geckodriver	INFO	Listening on 127.0.0.1:3488
+1666425935458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilevkuVCH"
+*** You are running in headless mode.
+1666425936172	Marionette	INFO	Marionette enabled
+1666425936183	Marionette	INFO	Listening on port 3498
+Read port: 3498
+WebDriver BiDi listening on ws://127.0.0.1:3489
+1666425936378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilevkuVCH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3489/devtools/browser/cd46455c-dd37-44db-a5e1-a0695b5ed8de
+1666425941970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T08:05:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:42Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:43Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:05:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 4678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 2088 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666426622533	geckodriver	INFO	Listening on 127.0.0.1:6291
+1666426625542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "6292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileoHbj4Z"
+*** You are running in headless mode.
+1666426626187	Marionette	INFO	Marionette enabled
+1666426626197	Marionette	INFO	Listening on port 6301
+Read port: 6301
+WebDriver BiDi listening on ws://127.0.0.1:6292
+1666426626378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileoHbj4Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6292/devtools/browser/a093c7ce-f21d-43d8-a178-a766260e7253
+1666426633051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-22T08:17:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-22T08:17:15Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 7579 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 3239 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666430020431	Marionette	INFO	Stopped listening on port 6301
+1666700737713	geckodriver	INFO	Listening on 127.0.0.1:3489
+1666700740737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileEbULR1"
+*** You are running in headless mode.
+1666700745655	Marionette	INFO	Marionette enabled
+1666700745666	Marionette	INFO	Listening on port 3500
+Read port: 3500
+WebDriver BiDi listening on ws://127.0.0.1:3490
+1666700745882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileEbULR1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3490/devtools/browser/7ba50f76-a288-4191-8680-e94516acf1ba
+1666700751296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:25:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666700897094	Marionette	INFO	Stopped listening on port 3500
+1666701062296	geckodriver	INFO	Listening on 127.0.0.1:3922
+1666701065271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "3923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileKsswtA"
+*** You are running in headless mode.
+1666701066041	Marionette	INFO	Marionette enabled
+1666701066052	Marionette	INFO	Listening on port 3938
+Read port: 3938
+WebDriver BiDi listening on ws://127.0.0.1:3923
+1666701066262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileKsswtA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:3923/devtools/browser/34f5026a-4af3-4d2c-9cf4-71afd0b339cb
+1666701072011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T12:31:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:31:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 2744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666701239537	Marionette	INFO	Stopped listening on port 3938
+1666701413394	geckodriver	INFO	Listening on 127.0.0.1:4280
+1666701416429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "4281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile773T1N"
+*** You are running in headless mode.
+1666701416956	Marionette	INFO	Marionette enabled
+1666701416965	Marionette	INFO	Listening on port 4290
+Read port: 4290
+WebDriver BiDi listening on ws://127.0.0.1:4281
+1666701417166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile773T1N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4281/devtools/browser/ab3a902f-4be9-4860-8528-1084536ed08d
+1666701422682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T12:37:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:37:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 5724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 1723 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666701569811	Marionette	INFO	Stopped listening on port 4290
+1666701726264	geckodriver	INFO	Listening on 127.0.0.1:4604
+1666701729316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "4605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofiletS4qpq"
+*** You are running in headless mode.
+1666701729961	Marionette	INFO	Marionette enabled
+1666701729971	Marionette	INFO	Listening on port 4614
+Read port: 4614
+WebDriver BiDi listening on ws://127.0.0.1:4605
+1666701730205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofiletS4qpq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4605/devtools/browser/8b02d4df-12a7-4717-b5cb-89d077175e8f
+1666701736145	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T12:42:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:16Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 5643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666701884922	Marionette	INFO	Stopped listening on port 4614
+1666702299900	geckodriver	INFO	Listening on 127.0.0.1:4972
+1666702302925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "4973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilewP59a0"
+*** You are running in headless mode.
+1666702303664	Marionette	INFO	Marionette enabled
+1666702303676	Marionette	INFO	Listening on port 4982
+Read port: 4982
+WebDriver BiDi listening on ws://127.0.0.1:4973
+1666702303873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilewP59a0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:4973/devtools/browser/bc6ceeb1-47e9-4a69-a1ec-49baeab68178
+1666702309989	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T12:51:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:51Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T12:51:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666702457093	Marionette	INFO	Stopped listening on port 4982
+1666702507320	geckodriver	INFO	Listening on 127.0.0.1:5294
+1666702510041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "5295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilejQxLRq"
+*** You are running in headless mode.
+1666702510699	Marionette	INFO	Marionette enabled
+1666702510709	Marionette	INFO	Listening on port 5304
+Read port: 5304
+WebDriver BiDi listening on ws://127.0.0.1:5295
+1666702510947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilejQxLRq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5295/devtools/browser/9145a4e0-c243-480b-972e-b1aee30dbb83
+1666703194594	geckodriver	INFO	Listening on 127.0.0.1:5441
+1666703197573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "5442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileB0qWaK"
+*** You are running in headless mode.
+1666703198344	Marionette	INFO	Marionette enabled
+1666703198353	Marionette	INFO	Listening on port 5452
+Read port: 5452
+WebDriver BiDi listening on ws://127.0.0.1:5442
+1666703198565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileB0qWaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5442/devtools/browser/eb3e920d-6582-4bea-9d10-e1e11cb41680
+1666703204196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:06:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:06:46Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 5624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666703361753	Marionette	INFO	Stopped listening on port 5452
+1666703747060	geckodriver	INFO	Listening on 127.0.0.1:5884
+1666703750086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "5885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileCVglYH"
+*** You are running in headless mode.
+1666703750802	Marionette	INFO	Marionette enabled
+1666703750813	Marionette	INFO	Listening on port 5896
+Read port: 5896
+WebDriver BiDi listening on ws://127.0.0.1:5885
+1666703751011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileCVglYH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:5885/devtools/browser/c213af25-c62d-4050-a464-e5d49b28aa1a
+1666703756930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:15:59Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7349 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 6786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666703911788	Marionette	INFO	Stopped listening on port 5896
+1666703972859	geckodriver	INFO	Listening on 127.0.0.1:6256
+1666703975883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "6257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilec2IwyU"
+*** You are running in headless mode.
+1666703976456	Marionette	INFO	Marionette enabled
+1666703976468	Marionette	INFO	Listening on port 6267
+Read port: 6267
+WebDriver BiDi listening on ws://127.0.0.1:6257
+1666703976650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilec2IwyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:6257/devtools/browser/c11b4893-9dbd-4eb7-9d3b-6bef85f3a047
+1666703981956	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:19:44Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 7133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 6219 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666704139840	Marionette	INFO	Stopped listening on port 6267
+1666704714987	geckodriver	INFO	Listening on 127.0.0.1:7229
+1666704718029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "7230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWQWTMS"
+*** You are running in headless mode.
+1666704718729	Marionette	INFO	Marionette enabled
+1666704718740	Marionette	INFO	Listening on port 7240
+Read port: 7240
+WebDriver BiDi listening on ws://127.0.0.1:7230
+1666704718922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWQWTMS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:7230/devtools/browser/730f8104-fe9a-4771-bb63-3402fe7c98b0
+1666704724735	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:04Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:06Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:32:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 37 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4619 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666704877458	Marionette	INFO	Stopped listening on port 7240
+1666705321531	geckodriver	INFO	Listening on 127.0.0.1:13302
+1666705324551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "13303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilek7sSaq"
+*** You are running in headless mode.
+1666705325085	Marionette	INFO	Marionette enabled
+1666705325094	Marionette	INFO	Listening on port 13314
+Read port: 13314
+WebDriver BiDi listening on ws://127.0.0.1:13303
+1666705325311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilek7sSaq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:13303/devtools/browser/f67ff3b3-0aff-4ef9-a77f-483540157d56
+1666705331026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:42:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:11Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:12Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:13Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-10-25T13:42:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:42:14Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 23 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666705491048	Marionette	INFO	Stopped listening on port 13314
+1666705668417	geckodriver	INFO	Listening on 127.0.0.1:14027
+1666705671462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "14028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWsbMUm"
+*** You are running in headless mode.
+1666705672453	Marionette	INFO	Marionette enabled
+1666705672465	Marionette	INFO	Listening on port 14039
+Read port: 14039
+WebDriver BiDi listening on ws://127.0.0.1:14028
+1666705672693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileWsbMUm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14028/devtools/browser/16faa9b1-d7ac-459d-b217-4c56b8b36e65
+1666705679401	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:01Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T13:48:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 5582 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666705832983	Marionette	INFO	Stopped listening on port 14039
+1666711903323	geckodriver	INFO	Listening on 127.0.0.1:14723
+1666711906330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "14724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile1cceWO"
+*** You are running in headless mode.
+1666711907116	Marionette	INFO	Marionette enabled
+1666711907126	Marionette	INFO	Listening on port 14734
+Read port: 14734
+WebDriver BiDi listening on ws://127.0.0.1:14724
+1666711907325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofile1cceWO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:14724/devtools/browser/b755d466-6c5c-48d9-bd13-4cd58d9f5177
+1666711913016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:31:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 3036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7880, MediaDecoderStateMachine #1] WARNING: Decoder=29db096b800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 7880, MediaDecoderStateMachine #1] WARNING: Decoder=29db096b800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+1666711941257	Marionette	INFO	Stopped listening on port 14734
+1666712450453	geckodriver	INFO	Listening on 127.0.0.1:1712
+1666712453414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "1713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileZ1tty3"
+*** You are running in headless mode.
+1666712454260	Marionette	INFO	Marionette enabled
+1666712454272	Marionette	INFO	Listening on port 1725
+Read port: 1725
+WebDriver BiDi listening on ws://127.0.0.1:1713
+1666712454466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofileZ1tty3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:1713/devtools/browser/cb759eb4-8482-4f43-8a7d-00b0cf5cdef8
+1666712460634	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T15:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:00Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:02Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:41:03Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 3108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4818 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666712622813	Marionette	INFO	Stopped listening on port 1725
+1666712859853	geckodriver	INFO	Listening on 127.0.0.1:2269
+1666712862860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "2270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilei1NUrr"
+*** You are running in headless mode.
+1666712863479	Marionette	INFO	Marionette enabled
+1666712863490	Marionette	INFO	Listening on port 2281
+Read port: 2281
+WebDriver BiDi listening on ws://127.0.0.1:2270
+1666712863676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AMRUTA\\AppData\\Local\\Temp\\rust_mozprofilei1NUrr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:2270/devtools/browser/2073028c-ece6-4f2f-839b-953a9613cd97
+1666712870259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-25T15:47:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:50Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-25T15:47:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 685 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666712889701	Marionette	INFO	Stopped listening on port 2281
+[Parent 27356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
