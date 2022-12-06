@@ -62,7 +62,6 @@ def emotions(comment_file):
     fig, ax1 = plt.subplots()
     ax1.bar(w.keys(), w.values())
     fig.autofmt_xdate()
-    # plt.savefig('graph.png')
-    # plt.savefig('G:/Project/YoutubeCommentAnalysis/static/output_img/graph.png')
-    # plt.show()
+    plt.savefig('graph.png')
+    plt.savefig('G:/Project/Final build analysis/YoutubeCommentAnalysis/static/output_img/graph.png')
     return w, fig

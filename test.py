@@ -14,6 +14,8 @@ import pandas as pd
 import numpy as np
 import csv
 import sys
+from selenium import webdriver
+import chromedriver_autoinstaller
 import os  # For cloud
 
 
@@ -25,18 +27,23 @@ def scrapfyt(url):
     option = webdriver.ChromeOptions()
     option.binary_location = os.environ.get("GOOGLE_CHROME_BIN")  # For cloud
     option.add_argument('--headless')
-    option.add_argument('-no-sandbox')
+    option.add_argument('--no-sandbox')
     #   option.add_argument("--disable-infobars")
-    #   option.add_argument("--disable-gpu")
+    #   option.add_argument("--disable-gpu")+
     option.add_argument("--mute-audio")
     option.add_argument("--disable-extensions")
     option.add_argument('-disable-dev-sh-usage')
 
-    driver = webdriver.Chrome(service=Service("G:/Project/YoutubeCommentAnalysis/chromedriver106.exe"),
-                              options=option)  # For testing
+    # driver = webdriver.Chrome(service=Service("G:/Project/YoutubeCommentAnalysis/chromedriver106.exe"),
+    #                           options=option)  # For testing
 
     # driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),
     # options=option)  # For cloud
+    chromedriver_autoinstaller.install()  # Check if the current version of chromedriver exists
+    # and if it doesn't exist, download it automatically,
+    # then add chromedriver to path
+
+    driver = webdriver.Chrome(options=option)
 
     driver.set_window_size(960, 800)
     time.sleep(1)
@@ -77,7 +84,7 @@ def scrapfyt(url):
     video_owner = video_owner[0]
 
     video_comment_with_replies = driver.find_element(By.XPATH,
-                                                     '//*[@id="count"]/yt-formatted-string/span[1]').text + ' Comments'
+                                                     '//*[@id="count"]/yt-formatted-string/span[1]').text + ''
 
     users = driver.find_elements(By.XPATH, '//*[@id="author-text"]/span')
     comments = driver.find_elements(By.XPATH, '//*[@id="content-text"]')
@@ -94,7 +101,7 @@ def scrapfyt(url):
     all_comments = all_comments.to_csv("Full Comments.csv", index=False)
     # comments.to_html("Comments2.html")
 
-    video_comment_without_replies = str(len(commentsfile.axes[0])) + ' Comments'
+    video_comment_without_replies = str(len(commentsfile.axes[0])) + ''
 
     # print(video_title, video_owner, video_comment_with_replies, video_comment_without_replies)
 

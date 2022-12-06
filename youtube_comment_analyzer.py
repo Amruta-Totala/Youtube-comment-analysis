@@ -59,19 +59,19 @@ def sepposnegcom(comment_file):
     negative_comments = neg.to_csv("Negative Comments.csv", index=False)
     neutral_comments = neu.to_csv("Neutral Comments.csv", index=False)
 
-    video_positive_comments = str(len(pos.axes[0])) + ' Comments'  # Finding total rows in positive comments
-    video_negative_comments = str(len(neg.axes[0])) + ' Comments'  # Finding total rows in negative comments
-    video_neutral_comments = str(len(neu.axes[0])) + ' Comments'  # Finding total rows in negative comments
+    video_positive_comments = str(len(pos.axes[0])) + ''  # Finding total rows in positive comments
+    video_negative_comments = str(len(neg.axes[0])) + ''  # Finding total rows in negative comments
+    video_neutral_comments = str(len(neu.axes[0])) + ''  # Finding total rows in negative comments
 
     if (pd.read_csv('1.csv', nrows=0).columns.tolist())[0] == 'Empty':
-        video_positive_comments = '0 Comments'
+        video_positive_comments = ''
     if (pd.read_csv('-1.csv', nrows=0).columns.tolist())[0] == 'Empty':
-        video_negative_comments = '0 Comments'
+        video_negative_comments = ''
     if (pd.read_csv('0.csv', nrows=0).columns.tolist())[0] == 'Empty':
-        video_neutral_comments = '0 Comments'
+        video_neutral_comments = ''
 
-    # fig = dataset.vader_sentiment.value_counts().plot(kind='bar', title="sentiment analysis")
-    # plt.savefig('G:/Project/YoutubeCommentAnalysis/static/output_img/analysis.png')
+    fig = dataset.vader_sentiment.value_counts().plot(kind='bar', title="sentiment analysis")
+    plt.savefig('G:/Project/Final build analysis/YoutubeCommentAnalysis/static/output_img/analysis.png')
 
     # fig1 = dataset.vader_sentiment.value_counts().plot(kind='bar', title="sentiment analysis")
     # plt.savefig('G:/Project/YoutubeCommentAnalysis/static/output_img/analysis_bar.png')
@@ -82,4 +82,4 @@ def sepposnegcom(comment_file):
     # plt.savefig('G:/Project/YoutubeCommentAnalysis/static/output_img/pie_analysis.jpg')
 
     return positive_comments, negative_comments, neutral_comments, video_positive_comments, video_negative_comments \
-        , video_neutral_comments
+        , video_neutral_comments,fig

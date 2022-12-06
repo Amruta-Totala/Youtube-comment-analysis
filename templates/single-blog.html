@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- SITE TITTLE -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mindcheq</title>
+
+    <!-- PLUGINS CSS STYLE -->
+    <link href="{{url_for('static', filename = 'plugins/jquery-ui/jquery-ui.min.css')}}" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="{{url_for('static', filename = 'plugins/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">
+    <!--  &lt;!&ndash; Font Awesome &ndash;&gt;-->
+    <link href="{{url_for('static', filename = 'plugins/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+    {{ fontawesome_html() }}
+
+    <!-- Owl Carousel -->
+    <link href="{{url_for('static', filename = 'plugins/slick-carousel/slick/slick.css')}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'plugins/slick-carousel/slick/slick-theme.css')}}" rel="stylesheet">
+    <!-- Fancy Box -->
+    <link href="{{url_for('static', filename = 'plugins/fancybox/jquery.fancybox.pack.css')}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'plugins/jquery-nice-select/css/nice-select.css')}}" rel="stylesheet">
+    <link href="{{url_for('static', filename = 'plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css')}}"
+          rel="stylesheet">
+    <!-- CUSTOM CSS -->
+    <link href="{{url_for('static', filename = 'css/style.css')}}" rel="stylesheet">
+
+
+    <!-- FAVICON -->
+    <link href="{{url_for('static', filename = 'img/favicon.png')}}" rel="shortcut icon">
+
+
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <script src="https://kit.fontawesome.com/00f0bcc233.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script language="JavaScript" type="text/javascript"
+            src="{{url_for('static', filename = 'js/scripts.js')}}"></script>
+    <script>
+
+
+$(document).ready(function(){
+    $('.twoToneButton').attr('disabled',true);
+    $('#search').keyup(function(){
+        if($(this).val().length !=0)
+            $('.twoToneButton').attr('disabled', false);
+        else
+            $('.twoToneButton').attr('disabled',true);
+    })
+});
+
+     $(function(){
+
+    var twoToneButton = document.querySelector('.twoToneButton');
+
+
+    twoToneButton.addEventListener("click", function() {
+
+        twoToneButton.innerHTML = "Searching";
+        twoToneButton.classList.add('spinning');
+
+      setTimeout(
+            function  (){
+                twoToneButton.classList.remove('spinning');
+                twoToneButton.innerHTML = "Search";
+
+            }, 10* 60 * 1000);
+    }, false);
+
+});
+
+
+
+
+
+
+    </script>
+
+
+</head>
+
+<body class="body-wrapper">
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-expand-lg  navigation">
+                    <a class="navbar-brand" href="{{ url_for('index1') }}">
+                        <img src="{{url_for('static', filename = 'images/logo.png')}}" alt="">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto main-nav ">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="{{ url_for('index1') }}">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('dashboard') }}">Analysis</a>
+                            </li>
+
+                              <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('user_profile') }}">User Profile</a>
+                            </li>
+                              <li class="nav-item dropdown dropdown-slide">
+                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                                   aria-expanded="false">
+                                    Pages <span><i class="fa fa-angle-down"></i></span>
+                                </a>
+                                <!-- Dropdown list -->
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <a class="dropdown-item" href="{{ url_for('single_blog') }}">Happy</a>
+                                    <a class="dropdown-item" href="{{ url_for('sad') }}">Sad</a>
+                                    <a class="dropdown-item" href="{{ url_for('angry') }}">Angry</a>
+                                    <a class="dropdown-item" href="{{ url_for('surprise') }}">Surprise</a>
+                                    <a class="dropdown-item" href="{{ url_for('laugh') }}">Laugh</a>
+                                    <a class="dropdown-item" href="{{ url_for('tear') }}">Emotional</a>
+                                    <a class="dropdown-item" href="{{ url_for('hearts') }}">Love</a>
+                                    <a class="dropdown-item" href="{{ url_for('flushed') }}">Excited</a>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="navbar-nav ml-auto mt-10">
+                            <li class="nav-item">
+                                <a class="nav-link login-button" href="{{ url_for('logout') }}">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!--=================================
+=            Single Blog            =
+==================================-->
+
+
+<section class="blog single-blog section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                <article class="single-post">
+                    <h3>Things Happy People Do Differently</h3>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">by <a href="">Admin</a></li>
+                        <li class="list-inline-item">Nov 18, 2022</li>
+                    </ul>
+                    <img src="{{url_for('static', filename = 'images/home/happy.jpg')}}" alt="article-01">
+                    <p class="text-justify">Happy people stay connected to their families, neighbors, places of worship,
+                        and communities.They build a strong social fabric.</p>
+
+                    <p class="text-justify">Happy people reign in their pessimistic thinking in three ways. First, they
+                        focus their time and energy on where they have control. They know when to move on if certain
+                        strategies aren’t working or if they don’t have control in a specific area. Second, they know
+                        that “this too shall pass.” Happy people “embrace the suck” and understand that while the ride
+                        might be bumpy at times, it won’t last forever. Finally, happy people are good at
+                        compartmentalizing. They don’t let adversity in one area of their life seep over into other
+                        areas of their life..</p>
+
+                    <p class="text-justify">Happy people take care of their mind and body and manage their stress.
+                        Focusing on your health, though, doesn’t just mean exercising. Happy people actually act like
+                        happy people. They smile, are engaged, and bring an optimal level of energy and enthusiasm to
+                        what they do..</p>
+                    <div style="text-align:center">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </div>
+                </article>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+<footer class="footer section section-sm">
+    <!-- Container Start -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 col-md-7 offset-md-1 offset-lg-0">
+                <!-- About -->
+                <div class="block about">
+                    <!-- footer logo -->
+                    <img src="{{url_for('static', filename = 'images/logo-footer.png')}}" alt="">
+                    <!-- description -->
+                    <p class="alt-color">Youtube comment analysis MINDCHEQ is an web application where one can add the
+                        link to there desired youtube video in order to get insights about other peoples review and to
+                        understand the psychology behind.</p>
+                </div>
+            </div>
+            <!-- Link list -->
+            <div class="col-lg-3 offset-lg-1 col-md-3">
+                <div class="block">
+                    <h4>Site Pages</h4>
+                    <ul>
+                        <li><a href="#">Dashboard</a></li>
+                        <li><a href="">All Categories</a></li>
+                        <li><a href="#">Visualization</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Link list -->
+            <div class="col-lg-3 col-md-3 offset-md-1 offset-lg-0">
+                <div class="block">
+                    <h4>Admin Pages</h4>
+                    <ul>
+                        <li><a href="{{ url_for('user_profile') }}">User Profile</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <!-- Container End -->
+</footer>
+<!-- Footer Bottom -->
+<footer class="footer-bottom">
+    <!-- Container Start -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-12">
+                <!-- Copyright -->
+                <div class="copyright">
+                    <p>Copyright © 2022. All Rights Reserved</p>
+                </div>
+            </div>
+            <div class="col-sm-6 col-12">
+                <!-- Social Icons -->
+
+            </div>
+        </div>
+    </div>
+    <!-- Container End -->
+    <!-- To Top -->
+    <div class="top-to">
+        <a id="top" class="" href=""><i class="fa fa-angle-up"></i></a>
+    </div>
+</footer>
+
+
+<!-- JAVASCRIPTS -->
+<script src="{{url_for('static', filename = 'plugins/jquery/jquery.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/jquery-ui/jquery-ui.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/tether/js/tether.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/raty/jquery.raty-fa.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/bootstrap/dist/js/popper.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/bootstrap/dist/js/bootstrap.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/slick-carousel/slick/slick.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/jquery-nice-select/js/jquery.nice-select.min.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/fancybox/jquery.fancybox.pack.js')}}"></script>
+<script src="{{url_for('static', filename = 'plugins/smoothscroll/SmoothScroll.min.js')}}"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
+<script src="{{url_for('static', filename = 'images/footer/phone-icon.png')}}"></script>
+
+</body>
+
+</html>
+
